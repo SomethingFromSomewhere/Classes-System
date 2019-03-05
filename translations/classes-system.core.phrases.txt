@@ -1,0 +1,19 @@
+"Pharases"
+{
+	"Prefix"
+	{
+		"en"		"[CS] "
+	}
+	
+	"Random"
+	{
+		"en"		"Random"
+		"ru"		"Случайно"
+	}
+	
+	"Main_Menu_Title"
+	{
+		"en"		"Classes:"
+		"ru"		"Классы:"
+	}
+}
